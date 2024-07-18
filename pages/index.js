@@ -73,11 +73,11 @@ export default function Home({ filter }) {
             Hype
           </Link>
           <a
-            href="https://github.com/andreasjansson/python-repos#readme"
+            href="https://hype-rho-one.vercel.app"
             className="text-white ml-4 hover:underline text-ssm"
             target="_blank"
           >
-            What is this?
+            AIGC Newsletter
           </a>
           <div className="flex items-center ml-auto">
             <Link
@@ -136,11 +136,11 @@ export default function Home({ filter }) {
           href="https://replicate.com"
           className="text-gray-600 text-sm hover:underline"
         >
-          Built by Replicate
+          Built by HYPE AIGC
         </a>
         <span className="md:mx-4">|</span>
         <a
-          href="https://github.com/andreasjansson/python-repos"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-600 text-sm hover:underline"

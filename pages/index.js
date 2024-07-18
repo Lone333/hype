@@ -117,7 +117,7 @@ export default function Home({ filter }) {
             selectedSources={sources}
           />
           <Link
-            href="https://github.com/andreasjansson/python-repos/actions"
+            href="#"
             className="text-gray-500"
           >
             Last updated {lastUpdated}
